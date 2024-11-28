@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "nlz7dvc+q/k=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\peterwong.BUNKEE\\Documents\\GoWorksheetAPI\\GoWorksheetAPI\\GoWorksheetAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\peterwong.BUNKEE\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.0\\microsoft.aspnetcore.openapi.9.0.0.nupkg.sha512",
+    "C:\\Users\\peterwong.BUNKEE\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
